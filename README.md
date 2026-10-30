@@ -12,7 +12,7 @@ A comprehensive data-driven comparative evaluation and sensor fusion benchmarkin
    - [Classifier Training & Cross-Validation Protocol](#4-classifier-training--cross-validation-protocol)
 4. [Specifications](#specifications)
 5. [Project structure](#project-structure)
-6. [Validation and results](#validation-and-results)
+6. [Results](#results)
    - [Cross-Validation Benchmark](#cross-validation-benchmark)
    - [Operational Scaling Analysis](#operational-scaling-analysis)
 7. [Usage](#usage)
