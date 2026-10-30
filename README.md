@@ -112,7 +112,7 @@ Independent of sensor returns, extracted directly from object annotations:
 .
 ├── SCRIPT-Classification_performance_analysis.py   # Core feature extraction, fusion, and evaluation script
 ├── REPORT-Classification_performance_analysis.pdf  # Comprehensive technical report and experimental paper
-└── README-Classification_performance_analysis.md   # Project documentation
+└── README.md   # Project documentation
 ```
 
 ## Results
